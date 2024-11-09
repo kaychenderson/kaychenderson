@@ -16,7 +16,7 @@ As linguagens de desenvolvimento que mais tenho interesse são:
 
 <div align="center">
   <img alt="Kayc's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaychenderson&show_icons=true&&theme=midnight-purple"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaychenderson&layout=compact&&langs_count=8&theme=midnight-purple"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaychenderson&layout=compact&&langs_count=8&theme=midnight-purple&hide_border=false"/>
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=kaychenderson&theme=midnight-purple&hide_border=false)<br/>  
 </div>
