@@ -17,7 +17,8 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 
 <h1 align=center> 📊 Estatísticas: </h1>
 <div align="center">
-  <img alt="Kayc's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaychenderson&show_icons=true&&theme=midnight-purple"/>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=kaychenderson&show_icons=true&&theme=midnight-purple&hide_border=false)
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaychenderson&layout=compact&&langs_count=6&theme=midnight-purple&hide_border=false"/>
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=kaychenderson&theme=midnight-purple&hide_border=false)<br/>
