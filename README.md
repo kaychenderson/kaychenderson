@@ -12,6 +12,7 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
   <img align="center" alt="Kayc-HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
   <img align="center" alt="Kayc-CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
   <img align="center" alt="Kayc-Python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+  <img align="center" alt="Kayc-React" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
   <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
   <img align="center" alt="Kayc-Git" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" />
 </div>
