@@ -41,7 +41,6 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 <br><br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaychenderson&icon=0&color=3)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=kaychenderson&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=F9F9F4&section=footer&reversal=false"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
