@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F9F9F4&section=header&reversal=false"/>
+
 ## 👋🏻 Olá, eu sou Kayc!
 Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia da tecnologia da informação acontece a cada linha de código escrita. 💻✨<br><br>📚 Atualmente, sou estudante da Universidade Federal Rural do Semi-Árido - (UFERSA) do Campus de Pau dos Ferros-RN. 🌵<br><br>🔎 Sou apaixonado por desafios tecnológicos e inovações, estou em constante busca por conhecimento e oportunidades para contribuir com soluções criativas e eficientes no mundo da Tecnologia da Informação. Estou aqui para aprender, colaborar e compartilhar minhas jornadas de programação e acompanhar meu progresso e desenvolvimento com a comunidade. <br>
 
@@ -39,7 +41,7 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 <br><br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaychenderson&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+[![](https://visitcount.itsvg.in/api?id=kaychenderson&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kaychenderson&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=F9F9F4&section=footer&reversal=false"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
