@@ -24,7 +24,7 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=kaychenderson&show_icons=true&&theme=midnight-purple&hide_border=true)
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaychenderson&layout=compact&&langs_count=10&theme=midnight-purple&hide_border=true"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaychenderson&layout=compact&&langs_count=14&theme=midnight-purple&hide_border=true"/>
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=kaychenderson&theme=midnight-purple&hide_border=true)<br/>
 </div>
