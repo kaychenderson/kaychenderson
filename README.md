@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F9F9F4&section=header&reversal=false"/>
 
 ## 👋🏻 Olá, eu sou Kayc!
-Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia da tecnologia da informação acontece a cada linha de código escrita. 💻✨<br><br>📚 Atualmente, sou estudante de BTI na Universidade Federal Rural do Semi-Árido - (UFERSA) - Pau dos Ferros-RN. 🌵<br><br/>
+Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia da tecnologia da informação acontece a cada linha de código escrita. 💻✨<br><br>📚 Atualmente, sou estudante de BTI na Universidade Federal Rural do Semi-Árido - (UFERSA) - Pau dos Ferros/RN. 🌵<br><br/>
 🔎 Estou em constante busca por conhecimento e oportunidades para contribuir com soluções criativas e eficientes. Estou aqui para aprender, colaborar e compartilhar minha jornada na programação e acompanhar meu progresso e desenvolvimento com a comunidade. <br>
 
 
