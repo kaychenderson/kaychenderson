@@ -2,8 +2,6 @@
 
 ## 👋🏻 Olá, eu sou Kayc!
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" style="margin: 0 0 10px 20px"/>
-
 Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia da tecnologia da informação acontece a cada linha de código escrita. 💻✨<br><br>📚 Atualmente, sou estudante de BTI na Universidade Federal Rural do Semi-Árido - (UFERSA) - Pau dos Ferros/RN. 🌵<br><br/>
 🔎 Estou em constante busca por conhecimento e oportunidades para contribuir com soluções criativas e eficientes. Estou aqui para aprender, colaborar e compartilhar minha jornada na programação e acompanhar meu progresso e desenvolvimento com a comunidade. <br>
 
@@ -35,8 +33,10 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 <div align="center">
   <a href = "mailto:kayc.hendersonml@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<br><br>
 
 <div align="center">
+  <img align="center" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
