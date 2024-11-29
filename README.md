@@ -2,7 +2,7 @@
 
 ## 👋🏻 Olá, eu sou Kayc!
 
-<img align="right" width="500" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" style="margin: 0 0 10px 20px"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" style="margin: 0 0 10px 20px"/>
 
 Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia da tecnologia da informação acontece a cada linha de código escrita. 💻✨<br><br>📚 Atualmente, sou estudante de BTI na Universidade Federal Rural do Semi-Árido - (UFERSA) - Pau dos Ferros/RN. 🌵<br><br/>
 🔎 Estou em constante busca por conhecimento e oportunidades para contribuir com soluções criativas e eficientes. Estou aqui para aprender, colaborar e compartilhar minha jornada na programação e acompanhar meu progresso e desenvolvimento com a comunidade. <br>
