@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=346cd4&section=header&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F9F9F4&section=header&reversal=false"/>
 
 ## 👋🏻 Olá, eu sou Kayc!
 
@@ -47,5 +47,5 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaychenderson&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=346cd4&section=footer&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=F9F9F4&section=footer&reversal=false"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
