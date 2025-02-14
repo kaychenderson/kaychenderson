@@ -22,13 +22,14 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 </br>
 <h2 align=center> Em processo de aprendizagem: </h2>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Kayc-Python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-  <img align="center" alt="Kayc-Java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-  <img align="center" alt="Kayc-Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bootstrap.svg" />
-  <img align="center" alt="Kayc-TailwindCSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg" />
-  <img align="center" alt="Kayc-ExpressJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" />
-  <img align="center" alt="Kayc-NextJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" />
-  <img align="center" alt="Kayc-NestJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NestJS-Dark.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bootstrap.svg" />
+  <img align="center" alt="TailwindCSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg" />
+  <img align="center" alt="ExpressJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" />
+  <img align="center" alt="NextJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" />
+  <img align="center" alt="NestJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NestJS-Dark.svg" />
+  <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MongoDB.svg" />
 </div>
 
 <h1 align=center> 📊 Estatísticas: </h1>
