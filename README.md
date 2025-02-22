@@ -15,7 +15,6 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
   <img align="center" alt="Kayc-CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
   <img align="center" alt="Kayc-Sass" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" />
   <img align="center" alt="Kayc-React" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
-  <img align="center" alt="NextJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" />
   <img align="center" alt="Kayc-NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" />
   <img align="center" alt="Kayc-Git" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VSCode-Dark.svg" />
   <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
@@ -29,6 +28,7 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
   <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bootstrap.svg" />
   <img align="center" alt="TailwindCSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg" />
+  <img align="center" alt="NextJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" />
   <img align="center" alt="ExpressJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" />
   <img align="center" alt="NestJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NestJS-Dark.svg" />
   <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MongoDB.svg" />
