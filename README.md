@@ -8,7 +8,6 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 <h1 align=center> 💻 Tech Stack: </h1>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Kayc-C" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
   <img align="center" alt="Kayc-Js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
   <img align="center" alt="Kayc-Ts" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
   <img align="center" alt="Kayc-HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
@@ -23,6 +22,7 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 </br>
 <h2 align=center> Em processo de aprendizagem: </h2>
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
   <img align="center" alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" />
   <img align="center" alt="Flask" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" />
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
