@@ -7,17 +7,17 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 
 <h1 align=center> 💻 Tech Stack: </h1>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Kayc-C" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
-  <img align="center" alt="Kayc-Js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-  <img align="center" alt="Kayc-Ts" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
-  <img align="center" alt="Kayc-HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-  <img align="center" alt="Kayc-CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-  <img align="center" alt="Kayc-Sass" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" />
-  <img align="center" alt="Kayc-React" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
-  <img align="center" alt="Kayc-NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" />
-  <img align="center" alt="Kayc-Git" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VSCode-Dark.svg" />
-  <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
-  <img align="center" alt="Kayc-Git" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" />
+  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+  <img align="center" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" />
+  <img align="center" alt="ReactJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
+  <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" />
+  <img align="center" alt="VS-Code" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VSCode-Dark.svg" />
+  <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" />
 </div>
 </br>
 <h2 align=center> Em processo de aprendizagem: </h2>
