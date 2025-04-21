@@ -38,7 +38,7 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=kaychenderson&show_icons=true&&theme=midnight-purple&hide_border=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaychenderson&layout=compact&&langs_count=8&theme=midnight-purple&hide_border=true&exclude_repo=projeto-python-financas,jiujitsu-front-end,jiujitsu-back-end)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaychenderson&layout=compact&&langs_count=8&theme=midnight-purple&hide_border=true&exclude_repo=jiujitsu-front-end,jiujitsu-back-end)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=kaychenderson&theme=midnight-purple&hide_border=true)
 </div>
 
