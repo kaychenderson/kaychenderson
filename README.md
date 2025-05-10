@@ -7,31 +7,31 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação, onde a mágia 
 
 <h1 align=center> 💻 Tech Stack: </h1>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-  <img align="center" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" />
-  <img align="center" alt="ReactJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" />
-  <img align="center" alt="VS-Code" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VSCode-Dark.svg" />
-  <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" />
+  <img align="center" alt="C" height="40" width="40" src="https://skillicons.dev/icons?i=c" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://skillicons.dev/icons?i=js" />
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://skillicons.dev/icons?i=ts" />
+  <img align="center" alt="HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css" />
+  <img align="center" alt="Sass" height="40" width="40" src="https://skillicons.dev/icons?i=sass" />
+  <img align="center" alt="ReactJS" height="40" width="40" src="https://skillicons.dev/icons?i=react" />
+  <img align="center" alt="NodeJS" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs" />
+  <img align="center" alt="VS-Code" height="40" width="40" src="https://skillicons.dev/icons?i=vscode" />
+  <img align="center" alt="Figma" height="40" width="40" src="https://skillicons.dev/icons?i=figma" />
+  <img align="center" alt="Git" height="40" width="40" src="https://skillicons.dev/icons?i=git" />
 </div>
 </br>
 <h2 align=center> Em processo de aprendizagem: </h2>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-  <img align="center" alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" />
-  <img align="center" alt="Flask" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" />
-  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bootstrap.svg" />
-  <img align="center" alt="TailwindCSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg" />
-  <img align="center" alt="NextJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" />
-  <img align="center" alt="ExpressJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" />
-  <img align="center" alt="NestJS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NestJS-Dark.svg" />
-  <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MongoDB.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://skillicons.dev/icons?i=python" />
+  <img align="center" alt="Django" height="40" width="40" src="https://skillicons.dev/icons?i=django" />
+  <img align="center" alt="Flask" height="40" width="40" src="https://skillicons.dev/icons?i=flask" />
+  <img align="center" alt="Java" height="40" width="40" src="https://skillicons.dev/icons?i=java" />
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap" />
+  <img align="center" alt="TailwindCSS" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind" />
+  <img align="center" alt="NextJS" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs" />
+  <img align="center" alt="ExpressJS" height="40" width="40" src="https://skillicons.dev/icons?i=expressjs" />
+  <img align="center" alt="NestJS" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs" />
+  <img align="center" alt="MongoDB" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb" />
 </div>
 
 <h1 align=center> 📊 Estatísticas: </h1>
